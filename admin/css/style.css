@@ -1,0 +1,257 @@
+.text1 {
+
+	font-size: 12px;
+
+	color:#222222;
+
+	font-weight:nornmal;
+	text-decoration: none;
+	
+
+	font-family:Arial, Helvetica, sans-serif;
+
+		}
+
+		
+
+.text1 A:link {text-decoration: none; color:#CC00FF;}
+
+.text1 A:visited {text-decoration: none; color:#CC00FF;}
+
+.text1 A:active {text-decoration: none;}
+
+.text1 A:hover {text-decoration: none; 
+				color:#CC00FF;
+		 		font-weight:bolder;
+			}	
+
+
+
+.bull{
+
+	font-size: 16px;
+
+	color: #999999;
+
+	font-weight:nornmal;
+
+	font-family:Arial, Helvetica, sans-serif;
+
+		}
+
+
+
+.text2 {
+
+	font-size: 12px;
+
+	color:#FF0099;
+
+	font-weight:bold;
+
+	font-family:Arial, Helvetica, sans-serif;
+
+		}
+
+.text2 A:link {text-decoration: none; color:#FF0099;}
+
+.text2 A:visited {text-decoration: none; color:#FF0099;}
+
+.text2 A:active {text-decoration: none}
+
+.text2 A:hover {text-decoration: none; color:#FF0099;}	
+
+
+
+.text3 {
+
+	font-size: 14px;
+
+	color:#222222;
+
+	font-weight:normal;
+
+	font-family:Arial, Helvetica, sans-serif;
+	text-decoration:none;
+
+		}
+
+.text3 {
+
+	font-size: 14px;
+
+	color: color:#3399CC;
+
+	font-weight:normal;
+
+	font-family:Arial, Helvetica, sans-serif;
+
+		}
+
+.text3 A:link {
+	text-decoration: none;
+	color:#000000;
+}
+
+.text3 A:visited {
+	text-decoration: none;
+	color:#000000;
+}
+
+.text3 A:active {
+	text-decoration: none;
+	color:#90c103;
+	}
+
+.text3 A:hover {
+	text-decoration: none;
+	color:#609103;
+	font-weight: bolder;
+}	
+
+
+.titlu {
+
+	font-size: 16px;
+
+	color:#3399CC;
+
+	font-weight:bold;
+
+	font-family:Arial, Helvetica, sans-serif;
+
+		}
+
+
+
+.select {
+
+	font-size: 12px;
+
+	color:#252c0c;
+
+	font-weight:normal;
+
+	font-family:Arial, Helvetica, sans-serif;
+
+
+
+		}
+
+
+
+.poza {
+
+	font-size: 13px;
+
+	color:#3399CC;
+
+	font-weight:normal;
+
+	font-family:Arial, Helvetica, sans-serif;
+
+	border:hidden;
+
+		}	
+
+.submit {
+
+	font-size: 11px;
+
+	color:#222222;
+
+	font-weight:normal;
+
+	font-family:Arial, Helvetica, sans-serif;
+
+		}				
+
+
+
+.comentarii{
+
+	font-size: 10px;
+
+	color:#3399CC;
+
+	font-weight:normal;
+
+	font-family:Arial, Helvetica, sans-serif;
+
+		}
+
+	
+
+.arial{
+
+font-family:Verdana, Arial, Helvetica, sans-serif;
+
+font-size:11px;
+
+
+
+font-style:normal;
+
+font-weight:normal;
+
+line-height:15px; 
+
+text-decoration:none;
+
+letter-spacing:-1px;
+
+
+
+}		
+
+
+
+.newsletter{
+
+font-family:Georgia, "Times New Roman", Times, serif;
+
+font-size:11px;
+
+color:#444444; 
+
+font-style:normal;
+
+font-weight:normal;
+
+line-height:13px; 
+
+text-decoration:none;
+
+letter-spacing:0px;
+
+width:400px;
+
+height:18px;
+
+}
+
+
+
+.newsletter1{
+
+font-family:Georgia, "Times New Roman", Times, serif;
+
+font-size:11px;
+
+color:#444444; 
+
+font-style:normal;
+
+font-weight:normal;
+
+line-height:13px; 
+
+text-decoration:none;
+
+letter-spacing:0px;
+
+width:300px;
+
+height:18px;
+
+}

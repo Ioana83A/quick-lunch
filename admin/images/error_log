@@ -1,0 +1,10 @@
+[16-Dec-2015 04:14:49 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php54/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - /opt/php54/lib/php/extensions/no-debug-non-zts-20100525/imagick.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[16-Dec-2015 04:14:49 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[16-Dec-2015 04:14:49 America/Chicago] PHP Warning:  include(db.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/quick/public_html/admin/images/newsletter_new.php on line 2
+[16-Dec-2015 04:14:49 America/Chicago] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'db.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/quick/public_html/admin/images/newsletter_new.php on line 2
+[16-Dec-2015 04:14:49 America/Chicago] PHP Warning:  require(classes/class.phpmailer.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/quick/public_html/admin/images/newsletter_new.php on line 6
+[16-Dec-2015 04:14:49 America/Chicago] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'classes/class.phpmailer.php' (include_path='.:/opt/php54/lib/php') in /home/quick/public_html/admin/images/newsletter_new.php on line 6

@@ -1,0 +1,16 @@
+[09-Jan-2016 01:51:09 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php54/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - /opt/php54/lib/php/extensions/no-debug-non-zts-20100525/imagick.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[09-Jan-2016 01:51:09 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[09-Jan-2016 01:51:09 America/Chicago] PHP Warning:  include(db.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/quick/public_html/images/bufet.php on line 5
+[09-Jan-2016 01:51:09 America/Chicago] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'db.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/quick/public_html/images/bufet.php on line 5
+[09-Jan-2016 01:51:09 America/Chicago] PHP Warning:  include(metataguri.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/quick/public_html/images/bufet.php on line 11
+[09-Jan-2016 01:51:09 America/Chicago] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'metataguri.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/quick/public_html/images/bufet.php on line 11
+[09-Jan-2016 01:51:09 America/Chicago] PHP Warning:  include(newsletter.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/quick/public_html/images/bufet.php on line 90
+[09-Jan-2016 01:51:09 America/Chicago] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'newsletter.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/quick/public_html/images/bufet.php on line 90
+[09-Jan-2016 01:51:09 America/Chicago] PHP Warning:  include(meniu_sus.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/quick/public_html/images/bufet.php on line 93
+[09-Jan-2016 01:51:09 America/Chicago] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'meniu_sus.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/quick/public_html/images/bufet.php on line 93
+[09-Jan-2016 01:51:09 America/Chicago] PHP Warning:  include(meniu_footer.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/quick/public_html/images/bufet.php on line 147
+[09-Jan-2016 01:51:09 America/Chicago] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'meniu_footer.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/quick/public_html/images/bufet.php on line 147

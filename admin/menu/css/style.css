@@ -1,0 +1,77 @@
+.text1 {
+	font-size: 12px;
+	color:#CC00FF;
+	font-weight:nornmal;
+	
+	font-family:Arial, Helvetica, sans-serif;
+		}
+		
+.text1 A:link {text-decoration: none; color:#CC00FF;}
+.text1 A:visited {text-decoration: none; color:#CC00FF;}
+.text1 A:active {text-decoration: none;}
+.text1 A:hover {text-decoration: none; color:#CC00FF;}	
+
+.bull{
+	font-size: 16px;
+	color: #999999;
+	font-weight:nornmal;
+	font-family:Arial, Helvetica, sans-serif;
+		}
+
+.text2 {
+	font-size: 12px;
+	color:#FF0099;
+	font-weight:bold;
+	font-family:Arial, Helvetica, sans-serif;
+		}
+.text2 A:link {text-decoration: none; color:#FF0099;}
+.text2 A:visited {text-decoration: none; color:#FF0099;}
+.text2 A:active {text-decoration: none}
+.text2 A:hover {text-decoration: none; color:#FF0099;}	
+
+.text3 {
+	font-size: 14px;
+	color: color:#3399CC;
+	font-weight:normal;
+	font-family:Arial, Helvetica, sans-serif;
+		}
+.text3 A:link {text-decoration: none; color:#3399CC;}
+.text3 A:visited {text-decoration: none; color:#3399CC;}
+.text3 A:active {text-decoration: none}
+.text3 A:hover {text-decoration: none; color:#3399CC;}	
+
+.titlu {
+	font-size: 16px;
+	color:#3399CC;
+	font-weight:bold;
+	font-family:Arial, Helvetica, sans-serif;
+		}
+
+.select {
+	font-size: 12px;
+	color:#3399CC;
+	font-weight:normal;
+	font-family:Arial, Helvetica, sans-serif;
+
+		}
+
+.poza {
+	font-size: 13px;
+	color:#3399CC;
+	font-weight:normal;
+	font-family:Arial, Helvetica, sans-serif;
+	border:hidden;
+		}	
+.submit {
+	font-size: 11px;
+	color:#3399CC;
+	font-weight:normal;
+	font-family:Arial, Helvetica, sans-serif;
+		}				
+
+.comentarii{
+	font-size: 10px;
+	color:#3399CC;
+	font-weight:normal;
+	font-family:Arial, Helvetica, sans-serif;
+		}

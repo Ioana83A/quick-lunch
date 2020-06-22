@@ -1,0 +1,23 @@
+#AddHandler application/x-httpd-php53 .php
+
+IndexIgnore .htaccess */.??* *~ *# */HEADER* */README* */_vti*
+
+<Limit GET POST>
+order deny,allow
+deny from all
+allow from all
+</Limit>
+<Limit PUT DELETE>
+order deny,allow
+deny from all
+</Limit>
+AuthName quick-lunch.ro
+
+
+
+Redirect 301 /meniu_curent.php /meniu_curent2.php
+Redirect 301 /meniu_viitor.php /meniu_viitor2.php
+
+Redirect 301 /meniu_copii.php /meniu_copii2.php
+Redirect 301 /meniu_copii_viitor.php /meniu_copii_viitor2.php
+

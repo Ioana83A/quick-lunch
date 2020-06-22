@@ -1,0 +1,105 @@
+
+	<meniu>
+		<week start="29.05.17" end="02.06.17">
+			<day name="luni"><dish idx="A" pret="6.80" fitness="0" lacto_vegetarian="1" recomandare="0">Supa de fasole galbena pastai cu smantana si marar</dish>
+					<dish idx="B" pret="7.80" fitness="0" lacto_vegetarian="0" recomandare="1">Ciorba ardeleneasca de curcan cu tarhon</dish>
+					<dish idx="C" pret="11.70" fitness="0" lacto_vegetarian="0" recomandare="0">Mancare de cartofi de primavara cu patrunjel, tocanita de porc</dish>
+					<dish idx="E" pret="11.80" fitness="0" lacto_vegetarian="1" recomandare="0">Mancare de spanac, ou ochi</dish>
+					<dish idx="F" pret="12.50" fitness="1" lacto_vegetarian="0" recomandare="0">Piept de pui natur, cartofi natur, sos de visine (752 kcal)</dish>
+					<dish idx="G" pret="12.70" fitness="0" lacto_vegetarian="0" recomandare="0">Snitel de porc parizian, cartofi cu unt si patrunjel</dish>
+					<dish idx="H" pret="14.10" fitness="0" lacto_vegetarian="0" recomandare="0">Felii pulpa de gasca prajite pe vatra, varza rosie calita, cartofi taranesti la tava</dish>
+					<dish idx="I" pret="5.20" fitness="0" lacto_vegetarian="0" recomandare="0">Strudel cu branza si pere</dish>
+					<dish idx="J" pret="2.80" fitness="0" lacto_vegetarian="0" recomandare="0">Castraveti de primavara cu smantana</dish>
+					<dish idx="K" pret="13.20" fitness="1" lacto_vegetarian="0" recomandare="0">Salata Zumba (salata iceberg, rodie, portocale, ruccola, morcovi, seminte de floarea soarelui, seminte de dovleac), piept de pui la gratar (521 kcal)</dish>
+					<dish idx="L" pret="0.50" fitness="0" lacto_vegetarian="0" recomandare="0">Chifla  60-70 gr (1 buc)</dish>
+					<dish idx="M" pret="13.40" fitness="0" lacto_vegetarian="0" recomandare="0">B+G4</dish>
+					<dish idx="N" pret="12.20" fitness="0" lacto_vegetarian="0" recomandare="0">A1+D1</dish>
+					<dish idx="O" pret="9.00" fitness="0" lacto_vegetarian="0" recomandare="0">Pulpa de pui file grill cu baby carotte si porumb (567 kcal)</dish>
+					<dish idx="P" pret="10.60" fitness="0" lacto_vegetarian="0" recomandare="0">Fasole batuta, chiftele de legume</dish>
+					<dish idx="Q" pret="14.40" fitness="0" lacto_vegetarian="0" recomandare="0">A1+G1+J1</dish>
+					<dish idx="E2" pret="12.70" fitness="1" lacto_vegetarian="0" recomandare="0">Salata de paste cu cascaval afumat si migdale, friptura din pulpa de curcan (520 kcal)</dish>
+					<dish idx="G2" pret="12.50" fitness="0" lacto_vegetarian="0" recomandare="0">Snitel parizian de porc, mancare de fasole verde cu rondele de morcovi</dish>
+					
+			</day>
+			<day name="marti"><dish idx="A" pret="7.30" fitness="0" lacto_vegetarian="0" recomandare="0">Supa de pui cu galuste de gris</dish>
+					<dish idx="B" pret="10.50" fitness="0" lacto_vegetarian="0" recomandare="1">Ciorba de burta, ardei iute</dish>
+					<dish idx="C" pret="11.50" fitness="0" lacto_vegetarian="0" recomandare="0">Ghiveci de primavara cu oua si carnati</dish>
+					<dish idx="E" pret="11.50" fitness="0" lacto_vegetarian="1" recomandare="1">Macaroane cu cascaval afumat si smantana</dish>
+					<dish idx="F" pret="13.40" fitness="1" lacto_vegetarian="0" recomandare="0">Tocanita fitness de curcan a la Bakonyi (smantana, ciuperci), orez iasmin (473 kcal)</dish>
+					<dish idx="G" pret="13.80" fitness="0" lacto_vegetarian="0" recomandare="0">Piept de curcan a la Kiev, orez exotic cu fructe tropicale</dish>
+					<dish idx="H" pret="14.40" fitness="0" lacto_vegetarian="0" recomandare="0">Tocanita de vita Stroganoff (mustar, castraveti murati), galuste de casa</dish>
+					<dish idx="I" pret="5.00" fitness="0" lacto_vegetarian="0" recomandare="0">"Hajas kifli" Specialitate ungureasca de cornulete cu gem</dish>
+					<dish idx="J" pret="2.80" fitness="0" lacto_vegetarian="0" recomandare="0">Salata de rosii cu ceapa verde</dish>
+					<dish idx="K" pret="12.50" fitness="1" lacto_vegetarian="0" recomandare="0">Salata in stil Bancar (ananas, porumb, sunca presata, cascaval) (225 kcal)</dish>
+					<dish idx="L" pret="0.50" fitness="0" lacto_vegetarian="0" recomandare="0">Chifla  60-70 gr (1 buc)</dish>
+					<dish idx="M" pret="13.40" fitness="0" lacto_vegetarian="0" recomandare="0">B+D2</dish>
+					<dish idx="N" pret="12.20" fitness="0" lacto_vegetarian="0" recomandare="0">A1+G3</dish>
+					<dish idx="O" pret="8.80" fitness="0" lacto_vegetarian="0" recomandare="0">Mancare de fasole verde, piept de pui la gratar (203 kcal)</dish>
+					<dish idx="P" pret="9.30" fitness="0" lacto_vegetarian="0" recomandare="0">Paste penne cu sos de rosii si busuioc</dish>
+					<dish idx="Q" pret="14.40" fitness="0" lacto_vegetarian="0" recomandare="0">A1+F+J1</dish>
+					<dish idx="E2" pret="9.50" fitness="1" lacto_vegetarian="0" recomandare="0">Salata de cartofi cu oua si ceapa rosie (674 kcal)</dish>
+					<dish idx="G2" pret="13.40" fitness="0" lacto_vegetarian="0" recomandare="0">Piept de curcan a la Kiev, cartofi piure</dish>
+					
+			</day>	
+			<day name="miercuri"><dish idx="A" pret="6.80" fitness="0" lacto_vegetarian="1" recomandare="0">Supa ardelenesca de cartofi cu tarhon</dish>
+					<dish idx="B" pret="8.90" fitness="0" lacto_vegetarian="0" recomandare="1">Supa limpede de vita cu fidea de casa</dish>
+					<dish idx="C" pret="12.30" fitness="0" lacto_vegetarian="0" recomandare="0">Mancare de fasole boabe uscata, carnaciori picanti la gratar</dish>
+					<dish idx="E" pret="11.40" fitness="0" lacto_vegetarian="1" recomandare="0">Paste penne cu ciuperci si branza Roquefort</dish>
+					<dish idx="F" pret="13.50" fitness="1" lacto_vegetarian="0" recomandare="0">Conopida gratinata cu carne de pasare acoperita cu crema de branza topita (447 kcal)</dish>
+					<dish idx="G" pret="13.10" fitness="0" lacto_vegetarian="0" recomandare="0">Cotlet de porc umplut cu branza de burduf si marar, cartofi cu patrunjel</dish>
+					<dish idx="H" pret="13.20" fitness="0" lacto_vegetarian="0" recomandare="0">Tocanita de porc cu pulpa si ciolan, galuste</dish>
+					<dish idx="I" pret="5.50" fitness="0" lacto_vegetarian="0" recomandare="0">Cremes</dish>
+					<dish idx="J" pret="2.80" fitness="0" lacto_vegetarian="0" recomandare="0">Castraveti covasiti (murati la soare)</dish>
+					<dish idx="K" pret="14.20" fitness="1" lacto_vegetarian="0" recomandare="0">Salata Cezar cu somon afumat (salata iceberg, rosii, praz, castraveti, porumb, cascaval), cubulete de paine prajita (601 kcal)</dish>
+					<dish idx="L" pret="0.50" fitness="0" lacto_vegetarian="0" recomandare="0">Chifla  60-70 gr (1 buc)</dish>
+					<dish idx="M" pret="13.40" fitness="0" lacto_vegetarian="0" recomandare="0">B+D1</dish>
+					<dish idx="N" pret="12.20" fitness="0" lacto_vegetarian="0" recomandare="0">A1+V</dish>
+					<dish idx="O" pret="9.00" fitness="0" lacto_vegetarian="0" recomandare="0">Pulpa de pui file grill cu baby carotte si porumb (567 kcal)</dish>
+					<dish idx="P" pret="9.60" fitness="0" lacto_vegetarian="0" recomandare="0">Nudli cu nuca, zahar pudra</dish>
+					<dish idx="Q" pret="14.40" fitness="0" lacto_vegetarian="0" recomandare="0">A1+C+J1</dish>
+					<dish idx="E2" pret="13.40" fitness="1" lacto_vegetarian="0" recomandare="0">Salata de boeuf cu carne de rata (703 kcal)</dish>
+					<dish idx="G2" pret="13.30" fitness="0" lacto_vegetarian="0" recomandare="0">Cotlet de porc umplut cu branza de burduf si marar, pilaf de orez</dish>
+					
+			</day>
+			<day name="joi"><dish idx="A" pret="0.00" fitness="0" lacto_vegetarian="0" recomandare="0">1 Iunie - Ziua copilului!</dish>
+					<dish idx="B" pret="0.00" fitness="0" lacto_vegetarian="0" recomandare="0"></dish>
+					<dish idx="C" pret="0.00" fitness="0" lacto_vegetarian="0" recomandare="0"></dish>
+					<dish idx="E" pret="0.00" fitness="0" lacto_vegetarian="0" recomandare="0"></dish>
+					<dish idx="F" pret="0.00" fitness="0" lacto_vegetarian="0" recomandare="0"></dish>
+					<dish idx="G" pret="0.00" fitness="0" lacto_vegetarian="0" recomandare="0"></dish>
+					<dish idx="H" pret="0.00" fitness="0" lacto_vegetarian="0" recomandare="0"></dish>
+					<dish idx="I" pret="0.00" fitness="0" lacto_vegetarian="0" recomandare="0"></dish>
+					<dish idx="J" pret="0.00" fitness="0" lacto_vegetarian="0" recomandare="0"></dish>
+					<dish idx="K" pret="0.00" fitness="0" lacto_vegetarian="0" recomandare="0"></dish>
+					<dish idx="L" pret="0.00" fitness="0" lacto_vegetarian="0" recomandare="0"></dish>
+					<dish idx="M" pret="0.00" fitness="0" lacto_vegetarian="0" recomandare="0"></dish>
+					<dish idx="N" pret="0.00" fitness="0" lacto_vegetarian="0" recomandare="0"></dish>
+					<dish idx="O" pret="0.00" fitness="0" lacto_vegetarian="0" recomandare="0"></dish>
+					<dish idx="P" pret="0.00" fitness="0" lacto_vegetarian="0" recomandare="0"></dish>
+					<dish idx="Q" pret="0.00" fitness="0" lacto_vegetarian="0" recomandare="0"></dish>
+					<dish idx="E2" pret="0.00" fitness="0" lacto_vegetarian="0" recomandare="0"></dish>
+					<dish idx="G2" pret="0.00" fitness="0" lacto_vegetarian="0" recomandare="0"></dish>
+					
+			</day>
+			<day name="vineri"><dish idx="A" pret="0.00" fitness="0" lacto_vegetarian="0" recomandare="0">Zi libera!</dish>
+					<dish idx="B" pret="0.00" fitness="0" lacto_vegetarian="0" recomandare="0"></dish>
+					<dish idx="C" pret="0.00" fitness="0" lacto_vegetarian="0" recomandare="0"></dish>
+					<dish idx="E" pret="0.00" fitness="0" lacto_vegetarian="0" recomandare="0"></dish>
+					<dish idx="F" pret="0.00" fitness="0" lacto_vegetarian="0" recomandare="0"></dish>
+					<dish idx="G" pret="0.00" fitness="0" lacto_vegetarian="0" recomandare="0"></dish>
+					<dish idx="H" pret="0.00" fitness="0" lacto_vegetarian="0" recomandare="0"></dish>
+					<dish idx="I" pret="0.00" fitness="0" lacto_vegetarian="0" recomandare="0"></dish>
+					<dish idx="J" pret="0.00" fitness="0" lacto_vegetarian="0" recomandare="0"></dish>
+					<dish idx="K" pret="0.00" fitness="0" lacto_vegetarian="0" recomandare="0"></dish>
+					<dish idx="L" pret="0.00" fitness="0" lacto_vegetarian="0" recomandare="0"></dish>
+					<dish idx="M" pret="0.00" fitness="0" lacto_vegetarian="0" recomandare="0"></dish>
+					<dish idx="N" pret="0.00" fitness="0" lacto_vegetarian="0" recomandare="0"></dish>
+					<dish idx="O" pret="0.00" fitness="0" lacto_vegetarian="0" recomandare="0"></dish>
+					<dish idx="P" pret="0.00" fitness="0" lacto_vegetarian="0" recomandare="0"></dish>
+					<dish idx="Q" pret="0.00" fitness="0" lacto_vegetarian="0" recomandare="0"></dish>
+					<dish idx="E2" pret="0.00" fitness="0" lacto_vegetarian="0" recomandare="0"></dish>
+					<dish idx="G2" pret="0.00" fitness="0" lacto_vegetarian="0" recomandare="0"></dish>
+					
+			</day>
+		</week>
+	</meniu>

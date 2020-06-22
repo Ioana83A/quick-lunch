@@ -1,0 +1,105 @@
+
+	<meniu>
+		<week start="05.06.17" end="09.06.17">
+			<day name="luni"><dish idx="A" pret="0.00" fitness="0" lacto_vegetarian="0" recomandare="0">5 Iunie - Zi nelucratoare!</dish>
+					<dish idx="B" pret="0.00" fitness="0" lacto_vegetarian="0" recomandare="0"></dish>
+					<dish idx="C" pret="0.00" fitness="0" lacto_vegetarian="0" recomandare="0"></dish>
+					<dish idx="E" pret="0.00" fitness="0" lacto_vegetarian="0" recomandare="0"></dish>
+					<dish idx="F" pret="0.00" fitness="0" lacto_vegetarian="0" recomandare="0"></dish>
+					<dish idx="G" pret="0.00" fitness="0" lacto_vegetarian="0" recomandare="0"></dish>
+					<dish idx="H" pret="0.00" fitness="0" lacto_vegetarian="0" recomandare="0"></dish>
+					<dish idx="I" pret="0.00" fitness="0" lacto_vegetarian="0" recomandare="0"></dish>
+					<dish idx="J" pret="0.00" fitness="0" lacto_vegetarian="0" recomandare="0"></dish>
+					<dish idx="K" pret="0.00" fitness="0" lacto_vegetarian="0" recomandare="0"></dish>
+					<dish idx="L" pret="0.00" fitness="0" lacto_vegetarian="0" recomandare="0"></dish>
+					<dish idx="M" pret="0.00" fitness="0" lacto_vegetarian="0" recomandare="0"></dish>
+					<dish idx="N" pret="0.00" fitness="0" lacto_vegetarian="0" recomandare="0"></dish>
+					<dish idx="O" pret="0.00" fitness="0" lacto_vegetarian="0" recomandare="0"></dish>
+					<dish idx="P" pret="0.00" fitness="0" lacto_vegetarian="0" recomandare="0"></dish>
+					<dish idx="Q" pret="0.00" fitness="0" lacto_vegetarian="0" recomandare="0"></dish>
+					<dish idx="E2" pret="0.00" fitness="0" lacto_vegetarian="0" recomandare="0"></dish>
+					<dish idx="G2" pret="0.00" fitness="0" lacto_vegetarian="0" recomandare="0"></dish>
+					
+			</day>
+			<day name="marti"><dish idx="A" pret="7.30" fitness="0" lacto_vegetarian="1" recomandare="0">Supa de ciuperci de padure cu galuste</dish>
+					<dish idx="B" pret="8.70" fitness="0" lacto_vegetarian="0" recomandare="1">Supa gulas unguresc cu carne de vita</dish>
+					<dish idx="C" pret="11.70" fitness="0" lacto_vegetarian="0" recomandare="0">Chiftelute marinate in sos de rosii, cartofi natur</dish>
+					<dish idx="E" pret="12.80" fitness="0" lacto_vegetarian="1" recomandare="1">Cascaval pane, cartofi wedges, sos tartar</dish>
+					<dish idx="F" pret="13.10" fitness="1" lacto_vegetarian="0" recomandare="0">Piept de pui grill, cartofi natur, sos tzatziki (741 kcal)</dish>
+					<dish idx="G" pret="13.70" fitness="0" lacto_vegetarian="0" recomandare="0">Piept de curcan cu mustar si miere in pane parizian, legume inabusite in unt</dish>
+					<dish idx="H" pret="13.50" fitness="0" lacto_vegetarian="0" recomandare="0">Piept de pui in stil italian cu cascaval si rosii la cuptor, cartofi piure</dish>
+					<dish idx="I" pret="5.20" fitness="0" lacto_vegetarian="0" recomandare="0">Strudel cu visine</dish>
+					<dish idx="J" pret="2.80" fitness="0" lacto_vegetarian="0" recomandare="0">Salata austria (morcovi, varza, telina julien, amestecate cu sos)</dish>
+					<dish idx="K" pret="13.30" fitness="1" lacto_vegetarian="0" recomandare="0">Salata Cezar cu piept de pui prajit (salata iceberg, porumb, praz, rosii, castraveti, cascaval), cubulete de paine prajita (760 kcal)</dish>
+					<dish idx="L" pret="0.50" fitness="0" lacto_vegetarian="0" recomandare="0">Chifla  60-70 gr (1 buc)</dish>
+					<dish idx="M" pret="13.40" fitness="0" lacto_vegetarian="0" recomandare="0">B+H</dish>
+					<dish idx="N" pret="12.20" fitness="0" lacto_vegetarian="0" recomandare="0">A2+G4</dish>
+					<dish idx="O" pret="9.70" fitness="0" lacto_vegetarian="0" recomandare="0">Piept de pui la gratar, orez cu legume (451 kcal)</dish>
+					<dish idx="P" pret="8.90" fitness="0" lacto_vegetarian="0" recomandare="0">Fasole galbena pastai inabusita cu usturoi</dish>
+					<dish idx="Q" pret="14.40" fitness="0" lacto_vegetarian="0" recomandare="0">A2+D1+I1</dish>
+					<dish idx="E2" pret="11.90" fitness="1" lacto_vegetarian="0" recomandare="0">Salata nemteasca de oua (oua, maioneza, ceapa, sunca presata) (429 kcal)</dish>
+					<dish idx="G2" pret="12.70" fitness="0" lacto_vegetarian="0" recomandare="0">Piept de curcan cu mustar si miere in pane parizian, cartofi noi la tava</dish>
+					
+			</day>	
+			<day name="miercuri"><dish idx="A" pret="6.80" fitness="0" lacto_vegetarian="0" recomandare="0">Supa de vita cu paste scoici marunte</dish>
+					<dish idx="B" pret="8.60" fitness="0" lacto_vegetarian="0" recomandare="1">Ciorba de fasole boabe a la Jokai (carnati si ciolan afumat)</dish>
+					<dish idx="C" pret="13.50" fitness="0" lacto_vegetarian="0" recomandare="1">Sarmalute Banatene (4 buc), smantana, ardei iute</dish>
+					<dish idx="E" pret="12.50" fitness="0" lacto_vegetarian="1" recomandare="0">Mamaliguta gratinata cu branza de burduf si smantana, in stil ardelenesc</dish>
+					<dish idx="F" pret="13.80" fitness="1" lacto_vegetarian="0" recomandare="0">Piept de curcan umplut cu camembert si ardei californian, orez cu porumb (720 kcal)</dish>
+					<dish idx="G" pret="12.80" fitness="0" lacto_vegetarian="0" recomandare="0">Piept de pui umplut cu cascaval si ardei californian, cartofi piure</dish>
+					<dish idx="H" pret="13.20" fitness="0" lacto_vegetarian="0" recomandare="0">Frigarui de porc pariziene, cartofi noi la cuptor</dish>
+					<dish idx="I" pret="5.90" fitness="0" lacto_vegetarian="0" recomandare="0">Prajitura "Valurile Dunarii"</dish>
+					<dish idx="J" pret="2.80" fitness="0" lacto_vegetarian="0" recomandare="0">Salata de rosii cu ardei si castraveti</dish>
+					<dish idx="K" pret="12.30" fitness="1" lacto_vegetarian="0" recomandare="0">Salata mexicana de pui (piept de pui, ardei californian, porumb, paste) (821 kcal)</dish>
+					<dish idx="L" pret="0.50" fitness="0" lacto_vegetarian="0" recomandare="0">Chifla  60-70 gr (1 buc)</dish>
+					<dish idx="M" pret="13.40" fitness="0" lacto_vegetarian="0" recomandare="0">B+G2</dish>
+					<dish idx="N" pret="12.20" fitness="0" lacto_vegetarian="0" recomandare="0">A1+D1</dish>
+					<dish idx="O" pret="8.90" fitness="0" lacto_vegetarian="0" recomandare="0">Cubulete din piept de pui prajite cu legume, cartofi natur (380 kcal)</dish>
+					<dish idx="P" pret="10.40" fitness="0" lacto_vegetarian="0" recomandare="0">Tocanita manastireasca (morcovi, praz, ardei, ceapa, pasta rosii, marar)</dish>
+					<dish idx="Q" pret="14.40" fitness="0" lacto_vegetarian="0" recomandare="0">A1+G3+J1</dish>
+					<dish idx="E2" pret="14.20" fitness="1" lacto_vegetarian="0" recomandare="0">Salata de paste spirale cu maioneza, ardei, praz si peste ton afumat (818 kcal)</dish>
+					<dish idx="G2" pret="12.60" fitness="0" lacto_vegetarian="0" recomandare="0">Piept de pui umplut cu cascaval si ardei californian, orez cu legume</dish>
+					
+			</day>
+			<day name="joi"><dish idx="A" pret="6.40" fitness="0" lacto_vegetarian="1" recomandare="0">Supa de linte verde</dish>
+					<dish idx="B" pret="10.50" fitness="0" lacto_vegetarian="0" recomandare="1">Ciorba de burta, ardei iute</dish>
+					<dish idx="C" pret="12.10" fitness="0" lacto_vegetarian="0" recomandare="0">Sote ficatei de pui cu bacon, mamaliguta</dish>
+					<dish idx="E" pret="12.20" fitness="0" lacto_vegetarian="1" recomandare="0">Lasagna rumenita la cuptor cu ciuperci si cascaval ras</dish>
+					<dish idx="F" pret="12.60" fitness="1" lacto_vegetarian="0" recomandare="0">Clatite mexicane (clatite umplute cu legume mexicane, piept de pui macinat si cascaval), sos (572 kcal)</dish>
+					<dish idx="G" pret="12.80" fitness="0" lacto_vegetarian="0" recomandare="0">Cotlet de porc umplut cu ciuperci, cartofi piure</dish>
+					<dish idx="H" pret="14.80" fitness="0" lacto_vegetarian="0" recomandare="0">Papricas de vitel in stil unguresc cu galuste de casa</dish>
+					<dish idx="I" pret="6.80" fitness="0" lacto_vegetarian="0" recomandare="0">Lapte de pasare</dish>
+					<dish idx="J" pret="2.80" fitness="0" lacto_vegetarian="0" recomandare="0">Salata de castraveti cu smantana</dish>
+					<dish idx="K" pret="12.50" fitness="1" lacto_vegetarian="0" recomandare="0">Salata cu Feta, sos italian cu iaurt (520 kcal)</dish>
+					<dish idx="L" pret="0.50" fitness="0" lacto_vegetarian="0" recomandare="0">Chifla  60-70 gr (1 buc)</dish>
+					<dish idx="M" pret="13.40" fitness="0" lacto_vegetarian="0" recomandare="0">B+C</dish>
+					<dish idx="N" pret="12.20" fitness="0" lacto_vegetarian="0" recomandare="0">A2+G2</dish>
+					<dish idx="O" pret="8.80" fitness="0" lacto_vegetarian="0" recomandare="0">Mancare de mazare cu morcovi, piept de pui grill (279 kcal)</dish>
+					<dish idx="P" pret="10.60" fitness="0" lacto_vegetarian="0" recomandare="0">Fasole batuta, chiftelute falafel (naut, floarea soarelui, verdeturi)</dish>
+					<dish idx="Q" pret="14.40" fitness="0" lacto_vegetarian="0" recomandare="0">A1+U+J1</dish>
+					<dish idx="E2" pret="12.20" fitness="1" lacto_vegetarian="0" recomandare="0">Salata de boeuf cu carne de gasca (692 kcal)</dish>
+					<dish idx="G2" pret="12.70" fitness="0" lacto_vegetarian="0" recomandare="0">Cotlet de porc umplut cu ciuperci, pilaf de orez</dish>
+					
+			</day>
+			<day name="vineri"><dish idx="A" pret="6.70" fitness="0" lacto_vegetarian="0" recomandare="0">Supa de pui cu paste frunzulite</dish>
+					<dish idx="B" pret="8.80" fitness="0" lacto_vegetarian="0" recomandare="1">Ciorba ardeleneasca de perisoare cu smantana si tarhon</dish>
+					<dish idx="C" pret="12.80" fitness="0" lacto_vegetarian="0" recomandare="0">Mancare de macris, cartofi natur, felie de vita inabusita</dish>
+					<dish idx="E" pret="11.40" fitness="0" lacto_vegetarian="1" recomandare="0">Paste gratinate la cuptor cu stafide si nuca</dish>
+					<dish idx="F" pret="13.70" fitness="1" lacto_vegetarian="0" recomandare="0">Ragu de curcan cu sparanghel, orez brun cu ciuperci (630 kcal)</dish>
+					<dish idx="G" pret="12.80" fitness="0" lacto_vegetarian="0" recomandare="0">Piept de curcan parizian, cartofi piure</dish>
+					<dish idx="H" pret="14.50" fitness="0" lacto_vegetarian="0" recomandare="1">Piept de rata, sos de visine, cartofi natur</dish>
+					<dish idx="I" pret="5.80" fitness="0" lacto_vegetarian="0" recomandare="0">Placinta cu mere si scortisoara</dish>
+					<dish idx="J" pret="2.80" fitness="0" lacto_vegetarian="0" recomandare="0">Salata de sfecla rosie cu hrean</dish>
+					<dish idx="K" pret="13.80" fitness="1" lacto_vegetarian="0" recomandare="0">Salata cu mozzarella si prosciutto crudo (salata iceberg, mozzarella, rosii, porumb, castraveti) (212 kcal)</dish>
+					<dish idx="L" pret="0.50" fitness="0" lacto_vegetarian="0" recomandare="0">Chifla  60-70 gr (1 buc)</dish>
+					<dish idx="M" pret="13.40" fitness="0" lacto_vegetarian="0" recomandare="0">B+D1</dish>
+					<dish idx="N" pret="12.20" fitness="0" lacto_vegetarian="0" recomandare="0">A1+U</dish>
+					<dish idx="O" pret="9.20" fitness="0" lacto_vegetarian="0" recomandare="0">Piept de curcan cu cascaval afumat, orez cu pere (571 kcal)</dish>
+					<dish idx="P" pret="9.40" fitness="0" lacto_vegetarian="0" recomandare="0">Spaghete de post cu ciuperci</dish>
+					<dish idx="Q" pret="14.40" fitness="0" lacto_vegetarian="0" recomandare="0">A1+E+J1</dish>
+					<dish idx="E2" pret="12.40" fitness="1" lacto_vegetarian="0" recomandare="0">Salata colorata de primavara cu paste fusilli, pastrama de pui si ardei californian (752 kcal)</dish>
+					<dish idx="G2" pret="12.70" fitness="0" lacto_vegetarian="0" recomandare="0">Piept de curcan parizian, orez cu legume</dish>
+					
+			</day>
+		</week>
+	</meniu>

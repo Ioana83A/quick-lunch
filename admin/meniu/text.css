@@ -1,0 +1,316 @@
+@charset "utf-8";
+
+/* CSS Document */
+
+
+
+.alb{
+	font-family:Georgia, "Times New Roman", Times, serif;
+	font-size:16px;
+	color:#FFFFFF; 
+	font-style:normal;
+	font-weight:bold;
+	line-height:18px; 
+	text-decoration:none;
+	letter-spacing:-1px;
+}
+
+.alb_sapt{
+	font-family:Georgia, "Times New Roman", Times, serif;
+	font-size:13px;
+	color:#FFFFFF; 
+	font-style:normal;
+	font-weight:bold;
+	line-height:18px; 
+	text-decoration:none;
+	letter-spacing:-1px;
+}
+
+.portocaliu_urias{
+	font-family:Georgia, "Times New Roman", Times, serif;
+	font-size:40px;
+	color:#f7941d; 
+	font-style:normal;
+	font-weight:bold;
+	line-height:37px; 
+	text-decoration:none;
+}
+
+.portocaliu_mare{
+	font-family:Georgia, "Times New Roman", Times, serif;
+	font-size:22px;
+	color:#f7941d; 
+	font-style:normal;
+	font-weight:normal;
+	line-height:36px; 
+	text-decoration:none;
+	letter-spacing:-1px;
+}
+
+.portocaliu_mic{
+	font-family:Georgia, "Times New Roman", Times, serif;
+	font-size:12px;
+	color:#f7941d; 
+	font-style:normal;
+	font-weight:normal;
+	line-height:14px; 
+	text-decoration:none;
+}
+
+.puncte_gri{
+	font-family:Georgia, "Times New Roman", Times, serif;
+	font-size:27px;
+	color:#d1d3d4; 
+	font-style:normal;
+	font-weight:bold;
+	line-height:10px; 
+	text-decoration:none;
+	letter-spacing:1px;
+}
+
+
+.verde_mic{
+			font-family:Georgia, "Times New Roman", Times, serif;
+			font-size:12px;
+			color:#8bb903; 
+			font-style:normal;
+			font-weight:normal;
+			line-height:13px; 
+			text-decoration:none;
+			letter-spacing:0px;
+}
+
+.gri_mic{
+	font-family:Georgia, "Times New Roman", Times, serif;
+	font-size:12px;
+	color:#77787b; 
+	font-style:normal;
+	font-weight:normal;
+	line-height:13px; 
+	text-decoration:none;
+	letter-spacing:0px;
+}
+
+
+
+.titlu_galben{
+	font-family:Georgia, "Times New Roman", Times, serif;
+	font-size:16px;
+	color:#fffddf; 
+	font-style:normal;
+	font-weight:bold;
+	line-height:13px; 
+	text-decoration:none;
+	letter-spacing:-1px;
+}
+
+
+.newsletter{
+	font-family:Georgia, "Times New Roman", Times, serif;
+	font-size:11px;
+	color:#444444; 
+	font-style:normal;
+	font-weight:normal;
+	line-height:13px; 
+	text-decoration:none;
+	letter-spacing:0px;
+	width:125px;
+	height:11px;
+}
+
+
+.gri_mare_meniu{
+	font-family:Georgia, "Times New Roman", Times, serif;
+	font-size:24px;
+	color:#90918F; 
+	font-style:normal;
+	font-weight:bold;
+	line-height:26px; 
+	text-decoration:none;
+}
+
+
+
+.alb_mic{
+		font-family:Verdana, Arial, Helvetica, sans-serif;
+		font-size:11px;
+		color:#FFFFFF; 
+		font-style:normal;
+		font-weight:normal;
+		line-height:15px; 
+		text-decoration:none;
+		letter-spacing:-1px;
+}
+
+.negru_mic_meniu{
+	font-family:"Times New Roman", Times, serif;
+	font-size:13px;
+	color:#363927; 
+	font-style:normal;
+	font-weight:normal;
+	line-height:13px; 
+	text-decoration:none;
+}
+
+.gri_mic_meniu{
+	font-family:"Times New Roman", Times, serif;
+	font-size:13px;
+	color:#90918F; 
+	font-style:normal;
+	font-weight:bold;
+	line-height:13px; 
+	text-decoration:none;
+}
+
+
+.pret_textbox{
+	font-family:"Times New Roman", Times, serif;
+	font-size:10px;
+	color:#363927; 
+	font-style:normal;
+	font-weight:bold;
+	text-decoration:none;
+	height:10px;
+	line-height:14px;
+	width:26px;
+	vertical-align:top;
+}
+
+.date_textbox{
+	font-family:"Times New Roman", Times, serif;
+	font-size:12px;
+	color:#363927; 
+	font-style:normal;
+	font-weight:normal;
+	text-decoration:none;
+	height:12px;
+	line-height:14px;
+	width:120px;
+	vertical-align:top;
+}
+
+.date_textbox2{
+	font-family:"Times New Roman", Times, serif;
+	font-size:12px;
+	color:#363927; 
+	font-style:normal;
+	font-weight:normal;
+	text-decoration:none;
+	height:12px;
+	line-height:14px;
+	width:150px;
+	vertical-align:top;
+}
+
+.date_textarea{
+		font-family:"Times New Roman", Times, serif;
+		font-size:12px;
+		color:#363927; 
+		font-style:normal;
+		font-weight:normal;
+		text-decoration:none;
+		height:60px;
+		line-height:14px;
+		width:170px;
+		vertical-align:top;
+}
+
+.date_textarea2{
+		font-family:"Times New Roman", Times, serif;
+		font-size:12px;
+		color:#363927; 
+		font-style:normal;
+		font-weight:normal;
+		text-decoration:none;
+		height:60px;
+		line-height:14px;
+		width:150px;
+		vertical-align:top;
+}
+
+.galben_mic{
+			font-family:Georgia, "Times New Roman", Times, serif;
+			font-size:12px;
+			color:#fffddf; 
+			font-style:normal;
+			font-weight:bold;
+			line-height:14px; 
+			text-decoration:none;
+			letter-spacing:-1px;
+}
+
+.portocaliu_mij{
+				font-family:Georgia, "Times New Roman", Times, serif;
+				font-size:20px;
+				color:#f7941d; 
+				font-style:normal;
+				font-weight:normal;
+				line-height:36px; 
+				text-decoration:none;
+}
+
+.negru_mic{
+			font-family:Georgia, "Times New Roman", Times, serif;
+			font-size:12px;
+			color:#000000; 
+			font-style:normal;
+			font-weight:normal;
+			line-height:14px; 
+			text-decoration:none;
+			letter-spacing:0px;
+}
+
+.gri_mic3{
+			font-family:Georgia, "Times New Roman", Times, serif;
+			font-size:11px;
+			color:#77787b; 
+			font-style:normal;
+			font-weight:normal;
+			line-height:14px; 
+			text-decoration:none;
+			letter-spacing:0px;
+}
+
+.gri_mic2{
+			font-family:Georgia, "Times New Roman", Times, serif;
+			font-size:9px;
+			color:#77787b; 
+			font-style:normal;
+			font-weight:normal;
+			line-height:14px; 
+			text-decoration:none;
+			letter-spacing:2px;
+}
+
+.verde_italic{
+			font-family:Georgia, "Times New Roman", Times, serif;
+			font-size:12px;
+			color:#8BB903; 
+			font-style:italic;
+			font-weight:normal;
+			line-height:14px; 
+			text-decoration:none;
+}
+
+
+.portocaliu_formular{
+			font-family:Georgia, "Times New Roman",Times, serif;
+			font-size:45px;
+			color:#f7941d; 
+			font-style:normal;
+			font-weight:normal;
+			line-height:37px; 
+			text-decoration:none;
+			letter-spacing:-1px;
+}
+
+.portocaliu_comanda{
+			font-family:Georgia, "Times New Roman",Times, serif;
+			font-size:35px;
+			color:#f7941d; 
+			font-style:normal;
+			font-weight:normal;
+			line-height:37px; 
+			text-decoration:none;
+			letter-spacing:-1px;
+}
